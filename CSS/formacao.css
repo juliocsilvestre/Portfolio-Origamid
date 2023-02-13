@@ -115,7 +115,7 @@
 }
 
 .idiomas h3::before {
-    background: url("../img/idiomas.svg") no-repeat center center;
+    background: url("/img/idiomas.svg") no-repeat center center;
 }
 
 .formacao-extra li {
