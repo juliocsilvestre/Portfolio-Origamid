@@ -4,7 +4,7 @@
 
 🔨 Funcionalidades do projeto
 ---
-- Funcionalidade: Projeto feito com o intuito de aprimoramento de HTML, CSS e acerca da responsividade dos sites.
+- Funcionalidade: Projeto feito com o intuito de aprimoramento de HTML, CSS e acerca da responsividade dos sites onde se trata de um modelo de portfólio.
 
 ✔️ Técnicas e tecnologias utilizadas
 ---
